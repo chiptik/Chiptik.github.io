@@ -1,2 +1,2 @@
 # hello-world
-第一次（firstly）使用（using）
+第一次使用
